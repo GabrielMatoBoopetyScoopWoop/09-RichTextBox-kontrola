@@ -1,0 +1,9 @@
+C:\Users\Mato\source\repos\09 RichTextBox kontrola\09 RichTextBox kontrola\bin\Debug\09 RichTextBox kontrola.exe.config
+C:\Users\Mato\source\repos\09 RichTextBox kontrola\09 RichTextBox kontrola\bin\Debug\09 RichTextBox kontrola.exe
+C:\Users\Mato\source\repos\09 RichTextBox kontrola\09 RichTextBox kontrola\bin\Debug\09 RichTextBox kontrola.pdb
+C:\Users\Mato\source\repos\09 RichTextBox kontrola\09 RichTextBox kontrola\obj\Debug\_09_RichTextBox_kontrola.Form1.resources
+C:\Users\Mato\source\repos\09 RichTextBox kontrola\09 RichTextBox kontrola\obj\Debug\_09_RichTextBox_kontrola.Properties.Resources.resources
+C:\Users\Mato\source\repos\09 RichTextBox kontrola\09 RichTextBox kontrola\obj\Debug\09 RichTextBox kontrola.csproj.GenerateResource.cache
+C:\Users\Mato\source\repos\09 RichTextBox kontrola\09 RichTextBox kontrola\obj\Debug\09 RichTextBox kontrola.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\09 RichTextBox kontrola\09 RichTextBox kontrola\obj\Debug\09 RichTextBox kontrola.exe
+C:\Users\Mato\source\repos\09 RichTextBox kontrola\09 RichTextBox kontrola\obj\Debug\09 RichTextBox kontrola.pdb
